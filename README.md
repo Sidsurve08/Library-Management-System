@@ -1,2 +1,3 @@
 # Library-Management-System
 LMS MySQL Project
+In these LMS project we are going to do different operations such as selecting all fields from different tables, selecting library books owner who have buy or rented the books and also who have exceeded their fine_days...
